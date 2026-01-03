@@ -13,3 +13,13 @@ The pipeline extracts structured data from a public website, cleans and validate
 - Git & GitHub
 
 ## Project Structure
+web-etl-project/
+│
+├── scraper.py
+├── transform.py
+├── load.py
+├── raw_data.csv
+├── clean_data.csv
+├── database.db
+├── requirements.txt
+└── README.md
